@@ -11,8 +11,8 @@ function App() {
           React Developer/IT Generalist
         </p>
         <div className='contact'>
-          <a className='contact' target='_blank' href='tel:7376665284'>(737)-666-5284</a>
-          <a className='contact' target='_blank' href='mailto:travisthompsondev@gmail.com'>travisthompsondev@gmail.com</a>
+          <a className='contact' target='_blank' href='tel:7376665284'>Phone</a>
+          <a className='contact' target='_blank' href='mailto:travisthompsondev@gmail.com'>Email</a>
         </div>
         <a
           className="App-link"
