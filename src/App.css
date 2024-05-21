@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.contact {
+  color: white;
+  margin-bottom: 1rem;
+  padding: 1rem
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    border-radius: 20rem;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #bbc6f5;
+  margin-top: 1rem;
+  text-decoration: none;
+  padding: 1rem;
+  border: 1px solid rgb(10, 149, 173);
+  border-radius: 20px;
+  background-color: rgb(2, 30, 31);
+}
+
+
+
+
